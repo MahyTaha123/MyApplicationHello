@@ -24,12 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    private void testToUpload() {
 
-        int j = 0;
-        j += 3;
-
-
-    }
 }
 
